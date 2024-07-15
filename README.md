@@ -1,2 +1,2 @@
 # -CrackYourPlacement
-This repository contains solutions for the DSA Sheets by Arsh Goyal, following the 45 Days Plan. By starting this challenge, I aim to improve my DSA skills. Over 45 days, I will tackle various problems and concepts, building my proficiency and understanding, and becoming more adept at solving complex algorithmic challenges.
+Welcome to this repository, dedicated to providing comprehensive solutions for the DSA Sheets by Arsh Goyal, following the 45 Days Plan. By taking on this challenge, I aim to enhance my DSA skills. Throughout the 45 days, I will address various problems and concepts to build my proficiency and understanding, becoming more adept at solving complex algorithmic challenges. The solutions will be implemented in C++ or Python.
